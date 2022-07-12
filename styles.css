@@ -111,6 +111,7 @@ hr {
   padding: 2rem 1rem;
   text-align: center;
   color: white;
+  margin-inline-start: 0px;
 }
 
 .footer .link {
